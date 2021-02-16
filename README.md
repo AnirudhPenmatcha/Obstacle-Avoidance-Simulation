@@ -7,6 +7,8 @@ In order to run this you need to have the following dependencies installed (as o
 1. Python3
 2. ROS Melodic Morenia (Python version) (http://wiki.ros.org/melodic/Installation) 
 3. Gazebo
+4. opencv-python 4.4.0.42 (https://pypi.org/project/opencv-python/4.4.0.42/)
+5. numpy 1.17.2 (https://pypi.org/project/numpy/1.17.2/)
 
 Once you have these dependecies successfully installed, clone the repository into your local workspace. After that in a new terminal run the following command :
 
