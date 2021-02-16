@@ -8,4 +8,4 @@ In order to run this you need to have the following dependencies installed (as o
 2. ROS Melodic Morenia (Python version) (http://wiki.ros.org/melodic/Installation) 
 3. Gazebo
 
-[This file is incomplete as of Feb 16, 2021]
+[This file is incomplete as of Feb 16, 2021, I'm actually new to mainting a project in this manner and so I would like to take my time and put it together in a clean way]
