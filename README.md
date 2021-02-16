@@ -21,3 +21,7 @@ This will launch Gazebo with the a rover model. And once you have done till here
 And you will see the the rover move staright unless an obstacle is seen infront of it.
 
 [This file is incomplete as of Feb 16, 2021, I'm actually new to mainting a project in this manner and so I would like to take my time and put it together in a clean way]
+
+[Would like to say that the project is still in beta phase and not complete yet.]
+
+PS : The previous line is just so I can sound cool ( ͡👁️ ͜ʖ ͡👁️)
