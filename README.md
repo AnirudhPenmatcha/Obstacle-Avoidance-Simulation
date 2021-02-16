@@ -4,7 +4,7 @@ Hello everyone, this is a project on simulating (using Gazebo) an algorithm (htt
 Specifically it is designed to suit the needs of a Rover that I'm working on as a developer part of a team in my college. 
 
 In order to run this you need to have the following dependencies installed (as of Feb 16, 2021) :
-1. Python3
+1. Python3 
 2. ROS Melodic Morenia (Python version) (http://wiki.ros.org/melodic/Installation) 
 3. Gazebo
 4. opencv-python 4.4.0.42 (https://pypi.org/project/opencv-python/4.4.0.42/)
