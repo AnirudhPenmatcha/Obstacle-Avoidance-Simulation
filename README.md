@@ -24,4 +24,4 @@ And you will see the the rover move staright unless an obstacle is seen infront 
 
 [Would like to say that the project is still in beta phase and not complete yet.]
 
-PS : The previous line is just so I can sound cool ( ͡👁️ ͜ʖ ͡👁️)
+PS : The previous line is just so I can sound cool ( ͡👁️ ͜ʖ ͡👁️).
