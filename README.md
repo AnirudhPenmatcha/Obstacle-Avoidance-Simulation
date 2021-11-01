@@ -14,11 +14,11 @@ Once you have these dependecies successfully installed, clone the repository int
 
 `roslaunch obstacle_avoidance obs_avoid.launch`
 
-This will launch Gazebo with the a rover model. And once you have done till here go ahead and some obstacles around in the environment and then in another new terminal run this command :
+This will launch Gazebo with the a rover model. And once you have done till here go ahead and place some obstacles around in the environment and then in another new terminal run this command :
 
 `python3 opencv_to_ros.py`
 
-And you will see the the rover move staright unless an obstacle is seen infront of it.
+And you will see that the rover move staright unless an obstacle is seen infront of it.
 
 
-[Have decided to take an approach using LIDAR instead of Stereo camera as it might be more reliable hence I will stop working on this, with this being the last update.]
+[Have decided to take an approach using LIDAR instead of Stereo camera as it turned out to be more reliable for our use case hence I won't be continuing to update this]
