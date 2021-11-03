@@ -21,4 +21,4 @@ This will launch Gazebo with the model of a rover. And once you have come till h
 And you will see that the rover will move staright unless an obstacle is seen infront of it.
 
 
-[Have decided to take an approach using LIDAR instead of Stereo camera as it turned out to be more reliable for our use case hence I won't be continuing to update this, but that doesn't mean that this isn't working it still works like a charm! ;)]
+[Have decided to take an approach using LIDAR instead of Stereo camera as it turned out to be more reliable for our use case hence I won't be continuing to update this, but that doesn't mean that this isn't working, it still works like a charm! ;)]
