@@ -2,7 +2,7 @@
 
 Hello everyone, this is a project on simulating (using Gazebo) an algorithm (https://www.researchgate.net/publication/221105331_Stereovision-Based_Algorithm_for_Obstacle_Avoidance#pf8) to avoid obstacles for any automobile with a stereo camera attached in the front.
 Specifically, it is designed to suit the needs of a rover that I'm working on as a member of the developer domain in a tech team at my college. 
-**Here is a recording of it: https://youtu.be/0dGJE4fiOqM
+**Here is a recording of it: https://youtu.be/0dGJE4fiOqM**
 
 In order to run this you need to have the following dependencies installed (as of Feb 16, 2021) :
 1. Python3 
